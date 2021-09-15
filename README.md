@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LioCdev
-- 👀 I’m interested in web develpment.
+- 👋 Hi, I’m Lionel
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning JS.
 
 
