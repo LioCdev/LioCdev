@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lionel
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning JS and PHP.
 
 
 <!---
